@@ -11,7 +11,7 @@ In this challenge I will create an inventory application for a book store.
   - getAvailability()
     - 'out of stock' if 0 available copies
     - 'low stock' if < 10 copies
-    - 'in stick' otherwise
+    - 'in stock' otherwise
 - Be able to sell a book
   - sell(numSold = 1)
     - number of books sold should default to 1
