@@ -1,7 +1,5 @@
 # Available Books Challenge
 
-In this challenge I will create an inventory application for a book store.
-
 - Create a book class with this information
   - Title
   - Author
